@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-17T08:25:00Z",
+  "primary_sub_domain": "sub1.oasismm.site",
+  "cdn_domains": [
+    "cdneu.oasismm.site"
+  ],
+  "direct_domains": [
+    "new.oasismm.site"
+  ],
+  "fallback_vps_ips": [
+    "132.243.30.52"
+  ],
+  "proxy_secret": "oiJpsWL1hhY1bqx",
+  "telegram_bot": "SrHtooHiddy_bot"
+}
